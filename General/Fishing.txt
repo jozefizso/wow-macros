@@ -1,0 +1,3 @@
+#/use Aquadynamic Fish Attractor
+#/use Seth's Graphite Fishing Pole
+/cast Fishing
