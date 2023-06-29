@@ -1,0 +1,1 @@
+/script if (charm == nil) or (charm > 8) then charm=0; end; charm=charm+1; SetRaidTarget("mouseover", charm);
