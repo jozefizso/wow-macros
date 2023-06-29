@@ -1,0 +1,2 @@
+#showtooltip
+/cast [modifier:alt] Psychic Horror; Mind Spike
