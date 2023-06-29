@@ -1,0 +1,2 @@
+#showtooltip
+/cast [modifier:alt] Shadow Word: Death; Mind Blast
