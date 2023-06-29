@@ -1,0 +1,13 @@
+/tar Arctic Hare
+/tar Fjord Penguin
+/tar Glacier Penguin
+/tar Huge Toad
+/tar Sholazar Tickbird
+/tar Borean Marmot
+/tar Fjord Turkey
+/tar Grizzly Squirrel
+/tar Lava Crab
+/tar Scalawag Frog
+/tar Tundra Penguin
+/stopmacro [noexists]
+/love
