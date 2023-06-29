@@ -1,1 +1,3 @@
-# wow-macros
+# World of Warcraft Macros
+
+> Play smart.
