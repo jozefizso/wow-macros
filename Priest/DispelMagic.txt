@@ -1,0 +1,2 @@
+#showtooltip
+/cast [btn:1,exists,nodead][btn:1][btn:2,@player] Dispel Magic
