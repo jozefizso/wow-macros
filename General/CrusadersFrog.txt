@@ -1,0 +1,11 @@
+#showtooltip Warts-B-Gone Lip Balm
+/cleartarget
+/tar Lake Frog
+/stopmacro [noexists]
+/use Warts-B-Gone Lip Balm
+/kiss
+/cleartarget
+/target Maiden of Ashwood
+/stopmacro [noexists]
+/w Korwelia, %t is here. Stop kissing frogs!
+/cleartarget
