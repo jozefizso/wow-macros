@@ -1,0 +1,2 @@
+#showtooltip 18
+/castsequence reset=1.5 !Shoot, null
