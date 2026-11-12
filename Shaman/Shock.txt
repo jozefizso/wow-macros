@@ -1,0 +1,4 @@
+#showtooltip
+/cast [mod:alt] Frost Shock
+/castsequence  reset=target/20  Flame Shock, Frost Shock, Frost Shock
+/startattack
